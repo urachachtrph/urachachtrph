@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :rocket: I'm Teay
+- 🚀 I'm Uracha Chantrapha ✋
+- 🌱 I’m currently learning data analytics.
+- 📑  I'm interested in Data Science, Data Analysis.
 
